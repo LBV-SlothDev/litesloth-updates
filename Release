@@ -1,0 +1,22 @@
+Codename: noble
+Date: Fri, 20 Nov 2026 14:14:59 +0000
+Description: LiteSloth Family updates
+Label: LiteSloth Updates
+Origin: LiteSloth
+Suite: stable
+MD5Sum:
+ 225f67c28316c77b4a6bdba45527d677             4446 Packages
+ fb7071ce95f13d33bfa845dc59fa80c5             2086 Packages.gz
+ a1583ab1945b3ab2763617f9756f6a7b              149 Release
+SHA1:
+ c000bf8c5c567b156613e329ed6b491ec0d39e11             4446 Packages
+ 57e8ac46156c585813d6133d5239d91af0da4a57             2086 Packages.gz
+ fd1611f23e787be17a34d61e2098ae7f43afe55e              149 Release
+SHA256:
+ d8fdc1486c452c6e5aff6a355da06d66420ef7752414a0f4b933764a241c5cab             4446 Packages
+ 01ed6f11785973ce3b626f45fca472018fdacce2a847d4145684c577499afe56             2086 Packages.gz
+ 58e9140a95f981335b9c127f6c612760209db94c2225eba76cda3e1de13ade63              149 Release
+SHA512:
+ 8fadc91fa89fb29743661c7d0bd294552dfcbe875acbc246c0e1eb436e02dbfc8934730e5753b32c627af55f4d31cf51cd62eaf62be4130d28ac3dccfa18457d             4446 Packages
+ c3cf4b6fc2b3d20882521b7f60b33ab56fb2f88679d1fbe11898c69f403cbb6e9c85c399c9abbe4ed80e094050e24b40938ac3bfcfb1df5069f5ee984e6b1e84             2086 Packages.gz
+ e7f9b9424e7eb062a4c8c78a6a82f15403fc96a6cf8b13688ddf1161ff6bd103a655c5dd5c3cf8b5901ffebb593d90e26ebe5e5e3d2c54a711abecf27f513ff0              149 Release
