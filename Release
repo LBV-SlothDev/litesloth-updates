@@ -1,22 +1,22 @@
 Codename: noble
-Date: Sat, 21 Nov 2026 13:11:17 +0000
+Date: Sat, 21 Nov 2026 13:27:59 +0000
 Description: LiteSloth Family updates
 Label: LiteSloth Updates
 Origin: LiteSloth
 Suite: stable
 MD5Sum:
  103768b3eccd4688067e2680596d6d44            17025 Packages
- 66b551e9a73ff62ba7f71d1a424b296a             5645 Packages.gz
- 15c4ea55a8a5900f63c6005a31aac05f              149 Release
+ 3f072cf4f487e5933f2e10c1bd8d7e76             5645 Packages.gz
+ 3c32f40db067f2f3809edc1f3bde8ac6              149 Release
 SHA1:
  d9e6ed005d288e1840ac9293a82f1354f37a1c21            17025 Packages
- bbd94e853114c1de2d71a116858e274e1da6464a             5645 Packages.gz
- 87fa932eb205307ddbee9a567a9a3373a5f3a34f              149 Release
+ 62d855c9a49cfdf2b6f60f23bf74c750bffacdb6             5645 Packages.gz
+ 2bd8851935894c32164892753533cb340707a7c7              149 Release
 SHA256:
  a7fa0dafe2b0aacc99ffb5ef668c2904340f77031f907f56d22094239b07deed            17025 Packages
- 9a66099eb9eead174aaee52fbfcef799bf516b56c8635e7ec5a186987a336c02             5645 Packages.gz
- a1507152fefe723fdff2d1c834efbb8e9d6760f370fbe70e695f18311cbd5f75              149 Release
+ 48e78a5fa389fdd9ea04a124da4b1bcf4975f14eb73e24d5b5e2eff4d2c254f1             5645 Packages.gz
+ a6e77e9ea3b9267f23053ca475e430f8060ccec2417a45f2cf3dff7475bb7ac4              149 Release
 SHA512:
  4246b15f4f4aa4105e99c1572100abc8d3895c81f93f78e2e210f388810771703f2c7e4fe5f6e64c41b7f4cf6ad8efe3cdd4f68e4224cacb40b5e10031431e45            17025 Packages
- 1dda3805f4f48ceb4a5d1e10f953a3f26c1521377e434ae8387e7d4e8a65728bbd807cb82ebc55c39e8335051975582394cc92cee529fdf86c23322979f15be9             5645 Packages.gz
- ccfc056f9b9ca00f7d910b03bf5b2dea40949d31b941530a42cd808c1c4cbce2b943c20c9c4a61ee11f1cc0b7e4f063981261b9346bf8fc475870eaa802f7dd0              149 Release
+ 5592bc91f047d07c00f65b142b86a16e9e811f207f0617429d3272c667bc564052f6a8f09157159a3baacb727c8484cf5601cc082ca0503cacc34607b54918da             5645 Packages.gz
+ 8aa1f68926619f85bed29435184593d69338f983c19d43b23e56a7b8b686620c9dee006d2002f6975de515ab492c4055211b308a089caf44417d024e3930203a              149 Release
