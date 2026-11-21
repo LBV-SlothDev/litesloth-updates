@@ -1,22 +1,22 @@
 Codename: noble
-Date: Fri, 20 Nov 2026 14:14:59 +0000
+Date: Sat, 21 Nov 2026 00:34:33 +0000
 Description: LiteSloth Family updates
 Label: LiteSloth Updates
 Origin: LiteSloth
 Suite: stable
 MD5Sum:
- 225f67c28316c77b4a6bdba45527d677             4446 Packages
- fb7071ce95f13d33bfa845dc59fa80c5             2086 Packages.gz
- a1583ab1945b3ab2763617f9756f6a7b              149 Release
+ 2d482a4a44da53d2024484f81bd627e0             9609 Packages
+ 7af80d9b8f37e5ed56097ab4c18635dd             3498 Packages.gz
+ 97be4a53ef1e680e2196ffb9bb04de8f              149 Release
 SHA1:
- c000bf8c5c567b156613e329ed6b491ec0d39e11             4446 Packages
- 57e8ac46156c585813d6133d5239d91af0da4a57             2086 Packages.gz
- fd1611f23e787be17a34d61e2098ae7f43afe55e              149 Release
+ 8d7ab8af6f1f9218678ff2ee8ad2d5623f3a2396             9609 Packages
+ 20da94f4633bef1e5f78adbd2739699ef25479b0             3498 Packages.gz
+ 454986a21fe42eabcd01fa5af88a6ce19b4e8a02              149 Release
 SHA256:
- d8fdc1486c452c6e5aff6a355da06d66420ef7752414a0f4b933764a241c5cab             4446 Packages
- 01ed6f11785973ce3b626f45fca472018fdacce2a847d4145684c577499afe56             2086 Packages.gz
- 58e9140a95f981335b9c127f6c612760209db94c2225eba76cda3e1de13ade63              149 Release
+ 840f5f6ca8701c32b2135de8af43a2e504e13e78217dfbb6be9c0a4d0edb8fd7             9609 Packages
+ 9836cead19741141e881f5b43b30454fdf137f82eb35139699c5ae10d7c3b34a             3498 Packages.gz
+ 0dae822c426a38d79529013a5b839265c352c6ff944090ed10cdca2ac7fe8835              149 Release
 SHA512:
- 8fadc91fa89fb29743661c7d0bd294552dfcbe875acbc246c0e1eb436e02dbfc8934730e5753b32c627af55f4d31cf51cd62eaf62be4130d28ac3dccfa18457d             4446 Packages
- c3cf4b6fc2b3d20882521b7f60b33ab56fb2f88679d1fbe11898c69f403cbb6e9c85c399c9abbe4ed80e094050e24b40938ac3bfcfb1df5069f5ee984e6b1e84             2086 Packages.gz
- e7f9b9424e7eb062a4c8c78a6a82f15403fc96a6cf8b13688ddf1161ff6bd103a655c5dd5c3cf8b5901ffebb593d90e26ebe5e5e3d2c54a711abecf27f513ff0              149 Release
+ c72973d9f7252eea77bf80c55ca077ba22e760a86be07fe345a3c99b42aee20346905bfbbd0fc42a80218879a1c9631e0df9d665a7fb5bee5b83d8407c2a6d28             9609 Packages
+ b62e643fcbf8a83e09c13f5358b3db7ae5f5058b9fa3b5ea1d6c27c94bfb381e24cc160689f9d256214300430f805599bb0e460b30f14a83e485cbb3391f31c4             3498 Packages.gz
+ ad881b9d2bb782a9bb55272dec3a4a3271dc0a006fd27540e0be3c1b3d6bf57b312b5770631f6f883f310baa78e57d76bb5171caf5f737e2f833d2e7803a20ba              149 Release
