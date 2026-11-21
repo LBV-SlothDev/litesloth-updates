@@ -2,31 +2,31 @@
 Hash: SHA512
 
 Codename: noble
-Date: Sat, 21 Nov 2026 01:12:51 +0000
+Date: Sat, 21 Nov 2026 02:14:14 +0000
 Description: LiteSloth Family updates
 Label: LiteSloth Updates
 Origin: LiteSloth
 Suite: stable
 MD5Sum:
- 26da3e10316fa0b892c6ef1a5c6361f6            15489 Packages
- c42cb10f7b5b255d6f574a32c19e22dc             4955 Packages.gz
- 260dfbe171bdc86833bde0574a860554              149 Release
+ c7cdacf7f8adc39c1993d83a81daab01            15489 Packages
+ 3b4437bda12a7ce2bac5ac759318dc12             4960 Packages.gz
+ 7a06c06e83cb61b90638f7d2784e0be7              149 Release
 SHA1:
- 03eb44857b34374751c6062a288f383cb1c70ed5            15489 Packages
- 03c0ed62bff41f06b995fb00fdfdfa457268042f             4955 Packages.gz
- 0214286e1c6b4963cfa495a3e60a658b74b20db0              149 Release
+ 6c83f071667909547f12bb04f323c868239ada38            15489 Packages
+ 4ad0c51c49664296ede4499aec9b260e55ee4d85             4960 Packages.gz
+ e60bc3e92feb8105bbe74256e5159c1d75ab87f7              149 Release
 SHA256:
- d33a955348fb310850e9dff725d75dbfdc6f8b81494404e6a693a79320726d1f            15489 Packages
- 6573703f47a2c95a7874d0c7fd9506d3c6d0d885656249fd18655d226c167eb6             4955 Packages.gz
- b64f758cc74e9a2779c6bcd135260facb5bba8504645d0ccb113b501e211b3f4              149 Release
+ 56c30a0e97093eef02388174cd936e46364eb8a79668d1393af1f5f35420c641            15489 Packages
+ 78d73d19822ad9e127792e9195ccede07ffae3c14f79475c6f77b9e9754f1d6c             4960 Packages.gz
+ a844bf870aaa55d33405753c87f59a4d73add1ecb0761cfaf86a3b9a76fa1aee              149 Release
 SHA512:
- 7bfcc7c40be201e4d79c0613b713025a2e71b92d426c371d2e84cd25ca479e97ecbaaf0d68a1eac74e12b8067ba41e314f428bc9f24dfa37ff3c0971f43fcfc1            15489 Packages
- fbfcc91ca6e6be4bd45feb8f6d6126ff8e692ff638316c3180eed1e517a91362a37b63d80a17c084e105329ebab243a77086eb8455920b9f4b1066a758bc5e8a             4955 Packages.gz
- 34506f716d7e6c9db39439339cee32db3ddc9ce2778ef20a8a52dc01ae4b5f5c77b828b7467173bf977a119026b64584ca19cf47bcfb49f5a209204dcbcef1c8              149 Release
+ 47453a78b42de2e658f28381252596a1524ae0d4fdd021821e69131b6fd1bb4ad82301a7ff3491068137ad73db85339a6143ec90e5936aca3c0dea8cae0bedcb            15489 Packages
+ ed22588a51bf2b819464864a42fbb676dd1158266096b6cc14ef54428fdae014d8b346d9ebd31c8fe3e663dd70833386efe8762750b6bb6dc210b9d00ac233a0             4960 Packages.gz
+ 8f71950008f38bfd76de16eba44d36edbc36d8559daf473b7b7ed0541dcef7e74507edc6bd5db5ee7d04119a6a78ad771e2f224c824dac5bb8b980016b72ad2f              149 Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQRld7qeoJiETcpq/EXzL/iLshWnJgUCawDwEwAKCRDzL/iLshWn
-JtJjAP0cdfyRf+UqBnphr6VivO8gm37tJ6RD7UcAJLJH8KftxQD/XvPQ+bvbPihu
-0Dm/FBXQHVkz7vbg3Am4fQc7m04tgQk=
-=GbaC
+iHUEARYKAB0WIQRld7qeoJiETcpq/EXzL/iLshWnJgUCawD+dgAKCRDzL/iLshWn
+Jj45AP9b84biQ2ACnPAIKFNvqe/+BvhGWuYNIIkI8PU7RxR8cgD+IX39hi8Fxkjv
+XTmAyy9XnSkBKcVZD8R3Ja58RFljJQ4=
+=gR4u
 -----END PGP SIGNATURE-----
