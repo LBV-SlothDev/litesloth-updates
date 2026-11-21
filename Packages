@@ -1,22 +1,5 @@
 Package: litesloth-apps
 Architecture: all
-Version: 0.3.19
-Priority: optional
-Section: web
-Maintainer: LiteSloth <hello@litesloth.com>
-Depends: litesloth-webapp
-Filename: pool/litesloth-apps_0.3.19_all.deb
-Size: 1352
-MD5sum: 8e14cc3e21e6ebd93d1c7ebda11ea936
-SHA1: ba0c4daea8b9e025eed38703d6ebe9cab63bbed5
-SHA256: 77563e56a78463079f05f6a7f24c5e2c7d91c8b2a040ff484d8c4ccd56e941f7
-SHA512: 8ebdc3a787781a8160c58293083568f453a04564aabfe796c37de13b4d873f0c5fde318ad3839d261fc6a510e8571981a819c2a1a992fa1518926c3fdf5a5a66
-Description: PureVibes app and PureSearch settings for LiteSloth OS
- A PureVibes (purevibes.me) app in its own window, and Firefox settings
- that use PureSearch (puresearch.io) as the home page and search.
-
-Package: litesloth-apps
-Architecture: all
 Version: 0.3.20
 Priority: optional
 Section: web
@@ -49,22 +32,22 @@ Description: PureVibes app and PureSearch settings for LiteSloth OS
  A PureVibes (purevibes.me) app in its own window, and Firefox settings
  that use PureSearch (puresearch.io) as the home page and search.
 
-Package: litesloth-scrawl
-Architecture: amd64
-Version: 0.3.19
+Package: litesloth-apps
+Architecture: all
+Version: 1.25
 Priority: optional
-Section: devel
+Section: web
 Maintainer: LiteSloth <hello@litesloth.com>
-Depends: golang-go (>= 2:1.22~) | golang-1.22-go
-Filename: pool/litesloth-scrawl_0.3.19_amd64.deb
-Size: 2668044
-MD5sum: ca66441514141eeff28baddfcd212ff8
-SHA1: 85e7cabc3338c721a6a5c59640ffa33f8f6acabe
-SHA256: 60bc0125390f78ff632c38ef3acb41f3d3237e73cbe743d48a6fa88117f091e5
-SHA512: c308949b04c4fc7e3712b82527610c5f9200f120aa7bda65043a0c28dcd66b031599d84bbc768d769c0c12dfff0106d75f933307499b29e442c4e1652c28b96b
-Description: LiteSloth Scrawl programming language
- Write programs in plain words; scrawl run, scrawl test and scrawl build
- turn them into fast Go programs. Type "scrawl" in a terminal to start.
+Depends: litesloth-webapp
+Filename: pool/litesloth-apps_1.25_all.deb
+Size: 1348
+MD5sum: b638701e67e7c259ca6ae9d5b4fb8292
+SHA1: 2470c0ef32fce51626c52446b466a931d35557af
+SHA256: dee47795658845cd1791356b3066b7930e0cea9b856b48323750f620f37be1ec
+SHA512: b10efc48920819ccf89048246c851ef76e5da061ff4a449f6e02539f7c2066423b0f62e8c7671df796408ebfd9447927c147ff51e0fc9fd34c85c87e8feecd4f
+Description: PureVibes app and PureSearch settings for LiteSloth OS
+ A PureVibes (purevibes.me) app in its own window, and Firefox settings
+ that use PureSearch (puresearch.io) as the home page and search.
 
 Package: litesloth-scrawl
 Architecture: amd64
@@ -100,22 +83,22 @@ Description: LiteSloth Scrawl programming language
  Write programs in plain words; scrawl run, scrawl test and scrawl build
  turn them into fast Go programs. Type "scrawl" in a terminal to start.
 
-Package: litesloth-screensaver
-Architecture: all
-Version: 0.3.19
+Package: litesloth-scrawl
+Architecture: amd64
+Version: 1.25
 Priority: optional
-Section: x11
+Section: devel
 Maintainer: LiteSloth <hello@litesloth.com>
-Depends: python3, python3-gi, gir1.2-gtk-3.0, gir1.2-webkit2-4.1, kdialog, xprintidle, libglib2.0-bin, xdg-user-dirs
-Filename: pool/litesloth-screensaver_0.3.19_all.deb
-Size: 6584
-MD5sum: fd9703f1f42935a8d8e01d3b945172d1
-SHA1: 7156bb2bb0f004c67585985b3605c309d8882138
-SHA256: 688edda84806dbdd13cd282c2f920b4eaa4b16abd59b532097667659a2d101f7
-SHA512: 897dc2b1856c5122bdb6efe3d318a22b619460fc6853a3b8857d465eacf844b2d59eab3aeed34271dc1ef9bf6c4aeee48c3dc5a7956d67b56572b7798afa4436
-Description: LiteSloth Screen Saver
- Space drift, Charlie naps, a clock with this month's calendar, or a
- slideshow of your photos, shown after a few minutes without use.
+Depends: golang-go (>= 2:1.22~) | golang-1.22-go
+Filename: pool/litesloth-scrawl_1.25_amd64.deb
+Size: 2669484
+MD5sum: 5e12cc9a1aba0ad69005e67e36908963
+SHA1: 3c928805b2d6591e70ed210eb0768d449db312ab
+SHA256: a7021d9a440f385fae6bd4a3e48aab5c39bd3d634c1152ff18191d4b120184fc
+SHA512: 1d4fdb8c685710f00091a1d7a63d2ea0038f86add82ec17b34c2a7adaf766732cd7658d10bbf60b175735391a6a2e854557681e9d9c1eb55578532d704b50732
+Description: LiteSloth Scrawl programming language
+ Write programs in plain words; scrawl run, scrawl test and scrawl build
+ turn them into fast Go programs. Type "scrawl" in a terminal to start.
 
 Package: litesloth-screensaver
 Architecture: all
@@ -152,22 +135,23 @@ Description: LiteSloth Screen Saver
  sunlight, city lights or stars), the Sloth Clock, or a slideshow of your
  photos, shown after a few minutes without use.
 
-Package: litesloth-updates
+Package: litesloth-screensaver
 Architecture: all
-Version: 0.3.19
-Priority: important
-Section: admin
+Version: 1.25
+Priority: optional
+Section: x11
 Maintainer: LiteSloth <hello@litesloth.com>
-Depends: apt (>= 2.4), unattended-upgrades
-Filename: pool/litesloth-updates_0.3.19_all.deb
-Size: 1524
-MD5sum: 607c81c32dff586938f97ea7c22ff809
-SHA1: 1cc954bb34844a1698742e936aca708345976f4d
-SHA256: ca738febc4d0ea1ea26e4b889dc2acdb180a5b07887f8290dcfb168c61ab72d8
-SHA512: 85fad69ff1e63929458b91efc202b706d2c7508595531df2284843dde7476115c2c4fdd62620fd672f25ad87c61c4d9d4fa2c806ec3187d27e54fc627e62011f
-Description: LiteSloth update channel
- Adds the signed LiteSloth update channel, so new versions of the
- LiteSloth Family arrive with the normal updates and install themselves.
+Depends: python3, python3-gi, gir1.2-gtk-3.0, gir1.2-webkit2-4.1, kdialog, xprintidle, libglib2.0-bin, xdg-user-dirs
+Filename: pool/litesloth-screensaver_1.25_all.deb
+Size: 102980
+MD5sum: 6ee1b21ca99e451bc6779015c80d8982
+SHA1: 797e48bc1f7d276754aced7bbbada9fed1af804e
+SHA256: 1bdadc6da4c4acdb73c4757beab6c32e5c1fed1a82c88b8120e3a6242953064d
+SHA512: db1f7a4e3e2867056ceb352a1389198a8b2693d30552f57ff4c380604f11fa1a33f012a1c69dedb741fb852d322ee4c1889e3dcf0eec4e03992fd7fc94db6160
+Description: LiteSloth Screen Saver
+ Charlie scenes (Charlie's pictures, slowly moving, with fireflies, sparks,
+ sunlight, city lights or stars), the Sloth Clock, or a slideshow of your
+ photos, shown after a few minutes without use.
 
 Package: litesloth-updates
 Architecture: all
@@ -203,22 +187,38 @@ Description: LiteSloth update channel
  Adds the signed LiteSloth update channel, so new versions of the
  LiteSloth Family arrive with the normal updates and install themselves.
 
-Package: litesloth-webapp
+Package: litesloth-updates
 Architecture: all
-Version: 0.3.19
-Priority: optional
-Section: web
+Version: 1.25
+Priority: important
+Section: admin
 Maintainer: LiteSloth <hello@litesloth.com>
-Depends: python3, python3-gi, gir1.2-gtk-3.0, gir1.2-webkit2-4.1, libnotify-bin, xdg-utils
-Filename: pool/litesloth-webapp_0.3.19_all.deb
-Size: 3456
-MD5sum: ed5822c907412da0af5d226d180b12bf
-SHA1: 2d9f110e9fe2163d1d2d8dc54ac5cbaef6998a69
-SHA256: 69e87af36cdd5782ad055371310a4b142465f73be0c59acef8be6e752301bd8e
-SHA512: e16ad897251dff72568bb10251ec5988c10ae710ac26739181d909e412de5f72f50b42b659cd869655a82966a4433b01e4b55d730373fae0b8bc43684b308345
-Description: LiteSloth web app windows
- Opens a website or a local LiteSloth app in its own window with its own
- taskbar icon. Used by PureSearch, PureVibes and Pure Calendar.
+Depends: apt (>= 2.4), unattended-upgrades
+Filename: pool/litesloth-updates_1.25_all.deb
+Size: 1524
+MD5sum: 0230be2a1d3ecf8036096246c2783f1d
+SHA1: 5e2a083aafef60fcf65a9ce26bb89576b7a8cf32
+SHA256: 86e63574b54484b8c311ea98a505a5ac53f14e7e6bde3c9cd8880f4e099559cd
+SHA512: 350185c027f48f32f57b40e228556985900b260eb076d9956ee894a4304f62108b2543e9a15c9932e682a1d14127f10f0417cc8d910085c48878db797cb8ee75
+Description: LiteSloth update channel
+ Adds the signed LiteSloth update channel, so new versions of the
+ LiteSloth Family arrive with the normal updates and install themselves.
+
+Package: litesloth-wallpapers
+Architecture: all
+Version: 1.25
+Priority: optional
+Section: x11
+Maintainer: LiteSloth <hello@litesloth.com>
+Filename: pool/litesloth-wallpapers_1.25_all.deb
+Size: 6247632
+MD5sum: c1fa116a98ecee82e10d630ecfb613fc
+SHA1: d5cd45c052d4d837752cded47a99ca27f33ee226
+SHA256: e36e72d76be3e2e5f53debddd551efea5d0684a9a398edbc61c9eb6b83dc472b
+SHA512: 0818c5136738b5b74eb52277d4bdff3a330a9de3183de4474d1ec355e999926baffcf919e8672b277be857812f05cc82710e49f6a847f109e5de8d327efd22b4
+Description: LiteSloth wallpapers
+ Charlie's badge in deep space (the LiteSloth OS default) and Charlie in
+ the City, Climbing, Building and in the Field.
 
 Package: litesloth-webapp
 Architecture: all
@@ -254,22 +254,22 @@ Description: LiteSloth web app windows
  Opens a website or a local LiteSloth app in its own window with its own
  taskbar icon. Used by PureSearch, PureVibes and Pure Calendar.
 
-Package: litesloth-welcome
+Package: litesloth-webapp
 Architecture: all
-Version: 0.3.19
+Version: 1.25
 Priority: optional
-Section: admin
+Section: web
 Maintainer: LiteSloth <hello@litesloth.com>
-Depends: python3, python3-gi, gir1.2-gtk-3.0
-Filename: pool/litesloth-welcome_0.3.19_all.deb
-Size: 3036
-MD5sum: dfb124b48036e0ed66fea0b7f93dc3e4
-SHA1: a49ba9d45d503e7c60f1e9947bb2029c202dfc69
-SHA256: c698af19e8b1fd7e678da0c71d26163cb7afbcf790f37eace003aa6546e51911
-SHA512: 5e841542b75db3f16ade74476af56885d9d7cb8135f7719a9d83376802cfbf782a8f1c8e68624b0d9251748736590fe3093cde5fe59fe58f406c9aabc4f9daec
-Description: LiteSloth OS welcome window for the live USB
- The "Try LiteSloth OS / Install LiteSloth OS" window shown when the
- computer starts from a LiteSloth OS USB stick.
+Depends: python3, python3-gi, gir1.2-gtk-3.0, gir1.2-webkit2-4.1, libnotify-bin, xdg-utils
+Filename: pool/litesloth-webapp_1.25_all.deb
+Size: 3452
+MD5sum: 94863df423ca34e5d99498a5d708e8bf
+SHA1: 2f668c7a1cb626fa9cc13eb05aada3b833383e1d
+SHA256: 95dd65b0300e8157141a627b5fe7b013aaa5945945c063f285d2af3f23b3c010
+SHA512: 35c47f9faaa5c3c35a6a4c99b9ff47575c56b150e8470e61c80c7ae4e02ec182ac764613becb944aba3c592a15f246216c9dd73926a670a40124af4852b52da7
+Description: LiteSloth web app windows
+ Opens a website or a local LiteSloth app in its own window with its own
+ taskbar icon. Used by PureSearch, PureVibes and Pure Calendar.
 
 Package: litesloth-welcome
 Architecture: all
@@ -305,22 +305,22 @@ Description: LiteSloth OS welcome window for the live USB
  The "Try LiteSloth OS / Install LiteSloth OS" window shown when the
  computer starts from a LiteSloth OS USB stick.
 
-Package: pure-calendar
-Architecture: amd64
-Version: 0.3.19
+Package: litesloth-welcome
+Architecture: all
+Version: 1.25
 Priority: optional
-Section: misc
+Section: admin
 Maintainer: LiteSloth <hello@litesloth.com>
-Depends: litesloth-webapp
-Filename: pool/pure-calendar_0.3.19_amd64.deb
-Size: 3953792
-MD5sum: 68afc2371ba0051382a59ae48a34c69c
-SHA1: beaa519a210ffbd477c5c130f246d5201289e238
-SHA256: 4bfb56d58cd56f34cba42dba08de1e9f92236fcec3b322848b1d9830cfdc295f
-SHA512: 9c8531861f642058a1bfc15809b352983711c8efc435779037b8980f4a0304fd6e56af0166c49cd5ba69aa4a33bf3a67a7b9fc87eb7b9b6ff644fdbcdedbfcfe
-Description: Pure Calendar, the LiteSloth OS calendar
- Months, weeks and days, repeating events, notes and reminders, and import
- from Google Calendar (.ics). Written in LiteSloth Scrawl.
+Depends: python3, python3-gi, gir1.2-gtk-3.0
+Filename: pool/litesloth-welcome_1.25_all.deb
+Size: 3036
+MD5sum: 8795a5cd27bf56f4ac0fcca8225b77fd
+SHA1: cddc54e90b0ff871597fe6332e3a3d74e8e91d87
+SHA256: 997f876805e47841ce976db7fe6c165d6c9800cbd1b1227a2cb13a4a4ba930d2
+SHA512: 9611c64408e1408d9d381b1d65e0c7175b3a6a1d9d78bff52284367fc98a63112d03de8912eb637083a611c3d6869719d3790408fe14d81d0979b1076abc98ad
+Description: LiteSloth OS welcome window for the live USB
+ The "Try LiteSloth OS / Install LiteSloth OS" window shown when the
+ computer starts from a LiteSloth OS USB stick.
 
 Package: pure-calendar
 Architecture: amd64
@@ -352,6 +352,23 @@ MD5sum: c8ac315cdabf6b882bf140ca221068e4
 SHA1: 62276ad8777f58d55f11836158ad73ac17275be9
 SHA256: e18f2768ccf927514388eb7e28fdbc4d7f2bc603fb5d40ced979608aba8d05ec
 SHA512: f33bbdc6d4b367768da2a293394a47e2b6935cb5b0e8133f9e3321af9fd2468d0099d4906148e68464beff502823b76bd18317113be5a8a88cd56cfeba430bea
+Description: Pure Calendar, the LiteSloth OS calendar
+ Months, weeks and days, repeating events, notes and reminders, and import
+ from Google Calendar (.ics). Written in LiteSloth Scrawl.
+
+Package: pure-calendar
+Architecture: amd64
+Version: 1.25
+Priority: optional
+Section: misc
+Maintainer: LiteSloth <hello@litesloth.com>
+Depends: litesloth-webapp
+Filename: pool/pure-calendar_1.25_amd64.deb
+Size: 3954992
+MD5sum: 5702f9ce548215043548e80dbde1839e
+SHA1: 21e3714ba581cdc1311ea92116548d82f602e5f8
+SHA256: 6c58e2dff9580032271ff474e0929102e6e9d9823e587edabffb875f898da5db
+SHA512: 85346b992c5e5aaffbda6e6a0eacb6e1d4069cd522756d918894297f8e0d9596d1f321dd22b61212362dea588dcb6d9eedfa8399a757291b3600477c02667f86
 Description: Pure Calendar, the LiteSloth OS calendar
  Months, weeks and days, repeating events, notes and reminders, and import
  from Google Calendar (.ics). Written in LiteSloth Scrawl.
