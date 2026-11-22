@@ -1,32 +1,32 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
+Hash: SHA256
 
 Codename: noble
-Date: Sun, 22 Nov 2026 14:19:43 +0000
+Date: Sun, 22 Nov 2026 14:25:11 +0000
 Description: LiteSloth Family updates
 Label: LiteSloth Updates
 Origin: LiteSloth
 Suite: stable
 MD5Sum:
- f41ec5440528c319b1265c8321cf8d18            29868 Packages
- 2501b052a084990945b3db299de674c4             9218 Packages.gz
- 13e9cded4af6bea3f00a76a2f7c90609              149 Release
+ c19416d6bd37174bb70eeba9720fc793            29873 Packages
+ 277b03c3aa974b94bfbc5afdfc7331d9             9223 Packages.gz
+ 01cc2d37b8a61334a9f4b16eb8fff940              149 Release
 SHA1:
- fbbc9797500b46c732281d50157d90aabbf3fa42            29868 Packages
- a0f0de9e1ae0a5a9b673c2585bef9b5a7f3d5aac             9218 Packages.gz
- f1f3430cc64e8e60025615b963478f5a5792b031              149 Release
+ 72368cace0fc8312d05d8ec9e33eda01ae0b2ea4            29873 Packages
+ 5b31fb8b69111e897f53f637a6faed08a8bdd15a             9223 Packages.gz
+ 57890e1be7c6909638f65f7c9bd5f1a9c84c7743              149 Release
 SHA256:
- 17c31f49f29b24f8564de504edf3fe993b6a160e515b066251c9c975e5f78295            29868 Packages
- 6055563bcfd6e3f6aef64783f5a946a3191d2a8ce5ad908cd07ff856a9f7d478             9218 Packages.gz
- 9088211b3e517e23db5bb342ab00459f0770b1258c1f99ccc39f13bc3261ffab              149 Release
+ cc236b9f4f6915174a7fbeb886aac33eab7d291be458230f813e924be1e24c89            29873 Packages
+ 4a48bef935e09c1aef469e5e5fb519ab2f202af3f637996da9f87ff8e4f6a058             9223 Packages.gz
+ 060dee2bbcaac463744183e6d463631cc8219d8189d69e9f1bcc260f5329b254              149 Release
 SHA512:
- 2ff1c0d45aa1b090181b19acfede9a031700afb3bc41db026105df480c0cfbb4c1fb810329a229038ead8d6c379011b44c3f7f1d41ec98caf3ed378237727990            29868 Packages
- faab0eabd7c4d6aec211a1bc4567103d4cff3f2663163af1e42a31a6e562cd0a5785a915f9c8013c39ce3615f1191c459e65e7dc236a887c9475c64c05dafd6e             9218 Packages.gz
- 6b88b90625092a532268862442145bd76279a4239f29758e0be6f4d5ef1346d7f6035bd432877716219f3dfd971377bdf7862c61c81a0ad4940c134ce772c487              149 Release
+ cff5c7deb52c37cab6c53dbb4207c482d11c5346a78afabbc328fc068f66292e24ef754e5d276d5b9f5a3bc3b64e5b92336506a3c7a157df1c724004f77972fc            29873 Packages
+ 8cce1ebe7c07d328e61658a4fd04ce61fdb434ed0bda01663dfff908119f6fc0b98d3353d7fa6c8df47c944d3e16d79bb4aa81060cb63579dd2234a6eb202b0a             9223 Packages.gz
+ 6b0ba8918b2e287a30172a6e92e06c6a5f71b775756dec4d59e0db846657296f4a73778419c50f746db543f2e9220ee99f24c6bc11337b5c1599e97e0fe4665e              149 Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQRld7qeoJiETcpq/EXzL/iLshWnJgUCawL5/wAKCRDzL/iLshWn
-Jq61AP0QQcq1uNf5xywSy2/h5NDSpQdi7n/E4BvLHVDHUzk05wEAqWAOQ9dCGpme
-9NGyvE3BTXP9781T6JS8zyDAe9rsfAw=
-=+EGq
+iHUEARYIAB0WIQRld7qeoJiETcpq/EXzL/iLshWnJgUCawL7RwAKCRDzL/iLshWn
+JsDZAP9VH1gj3Lq6Hl3EQBmGKjYcG+AX3Vp0t3iKr9Y7ydSBQAD5AQNfr1xVGVDn
+cYDexetqccLMBSVKkQaYzG8S7/sd/Qk=
+=vGoB
 -----END PGP SIGNATURE-----
