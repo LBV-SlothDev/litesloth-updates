@@ -469,6 +469,21 @@ SHA512: db8502a41c9b690b40d6bbc98bb9217f5722def8670967a61863d3cd348703f1c5e34364
 Description: Space, the LiteSloth code editor (program files, part 2)
  The second half of Space's program files. Install the "space" package.
 
+Package: space-files
+Architecture: amd64
+Version: 1.0.8
+Priority: optional
+Section: devel
+Maintainer: LiteSloth <hello@litesloth.com>
+Filename: pool/space-files_1.0.8_amd64.deb
+Size: 53545476
+MD5sum: 8e0221791c7d2a7fd7d085abc882de81
+SHA1: 954c1a33d8fcd9bfb15e859d7543efcd5ba587fd
+SHA256: a4f53e7a95265b3d8e67c1b109f3a82bdaf68bfc1bd35efc73843f48ca4f023b
+SHA512: da5c43ae028735d1bac8c1a905001f9b146a2c1c2aec9e2da80f9e0bed33ed80c5674a4b8f2a55d1def0dd3ae23df1ec669011f40dfb16ff64aeda39b8b32657
+Description: Space, the LiteSloth code editor (program files, part 2)
+ The second half of Space's program files. Install the "space" package.
+
 Package: space
 Architecture: amd64
 Version: 1.0.4
@@ -483,6 +498,26 @@ MD5sum: a8191c79c8568d6bc32cb53d22e948f3
 SHA1: 68f837a94b2525fd96c091caee95df064a22d493
 SHA256: 570b28feb597d86f7236595a53e3021a67a6473237d0e22319aa4136c0933148
 SHA512: 277a5d4506081925933b22fa42e331b2246b0e23cd4833bf76d5f9899be4c2bd053fe905221b4cbc1f533b7d14d04a27ba76db293317b652b0710bdb6cf1b5e8
+Homepage: https://litesloth.com
+Description: Space, the LiteSloth code editor
+ A code editor built from the open-source Code - OSS project, with
+ LiteSloth Scrawl built in: colors, hover help, snippets, Run and Run Tests.
+ Add-ons come from Open VSX.
+
+Package: space
+Architecture: amd64
+Version: 1.0.8
+Priority: optional
+Section: devel
+Maintainer: LiteSloth <hello@litesloth.com>
+Depends: space-files (= 1.0.8), libnss3, libgtk-3-0 | libgtk-3-0t64, libxkbfile1, libsecret-1-0, libgbm1, libasound2 | libasound2t64, xdg-utils
+Recommends: litesloth-scrawl
+Filename: pool/space_1.0.8_amd64.deb
+Size: 82208080
+MD5sum: e387befdbb625ef3abd28321433409d3
+SHA1: 3394b4fb5531f450f315d9a57e829222480085bf
+SHA256: 646f825d36ae9f2177e2a18bb9cc842c97d2423aff27707728bd1688a4723240
+SHA512: bbf83e114f584512d21e56641327e7fd59e419d1703162dbc2b006ff70693ad1d2e5218f113745b3e2b554c6d708dfef44c6a668b7b36193225ca36e6a22f5d7
 Homepage: https://litesloth.com
 Description: Space, the LiteSloth code editor
  A code editor built from the open-source Code - OSS project, with
